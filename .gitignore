@@ -1,0 +1,8 @@
+Dataset/**
+images/correct/*
+images/wrong/*
+logs/**
+tex/task2_TettaKondo.log
+tex/task2_TettaKondo.synctex.gz
+tex/task2_TettaKondo.aux
+*.pth
